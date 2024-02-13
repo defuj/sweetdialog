@@ -1,6 +1,6 @@
 name: sweetdialog
 description: "Beatiful and sweet alert dialog for flutter."
-version: 0.0.1
+version: 0.0.2
 homepage:
 platforms:
   ios:
